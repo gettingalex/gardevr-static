@@ -45,9 +45,9 @@ img {
 }
 
 .main-photo  {
-    max-width: 90%;
+    max-width: 100%;
     margin-bottom: 20px;
-    border-radius: 10px;
+    border-radius: 0px;
     margin-left: auto;
     margin-right: auto;
 }
