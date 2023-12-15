@@ -29,8 +29,6 @@ img {
 .header {
     padding-bottom: 60px;
     padding-top: 40px;
-    padding-left: 20px;
-    padding-right: 20px;
     background-color: #fff;
     text-align: center;
     box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
@@ -52,9 +50,13 @@ img {
     margin-right: auto;
 }
 
-.header h1 {
+.header h1 p {
     margin-top: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    
 }
+
 
 /* Button Styles */
 .action-btn {
